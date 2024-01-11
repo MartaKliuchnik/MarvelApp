@@ -4,7 +4,7 @@ import RandomChar from '../randomChar/RandomChar';
 import CharList from '../charList/CharList';
 import CharInfo from '../charInfo/CharInfo';
 import decoration from '../../resources/img/vision.png';
-import ErrorBoundary from '../ErrorBoundary/errorBoundary';
+import ErrorBoundary from '../errorBoundary/ErrorBoundary';
 
 class App extends Component {
 	state = {
