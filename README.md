@@ -1,3 +1,14 @@
+![marvel_service](https://github.com/MartaKliuchnik/MarvelApp/assets/101942611/69df5c1a-aa74-4ba0-a95c-f36c2d1ba3fc)
+
+**Marvel App**
+Used web-technologies:
+
+- HTML, CSS
+- Javascript
+- React
+
+link: https://marvel-gzjz.onrender.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
